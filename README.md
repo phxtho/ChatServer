@@ -1,2 +1,8 @@
-# HiveFive
-Application for asking questions and getting help with your continuous learning on The Hive
+# Chat Server
+
+## Set up 
+`npm install`
+
+## Run
+
+`node src/index.js`
